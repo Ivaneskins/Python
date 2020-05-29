@@ -1,6 +1,0 @@
-print('Hellow World!')
-a = 'Hellow World'
-b = 'Git is the best'
-#hey tou are
-for i in range(5):
-    print(i)
