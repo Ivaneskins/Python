@@ -1,1 +1,2 @@
-Задачки от https://pythontutor.ru/
+Tkinter apps
+Pythonutor tests
